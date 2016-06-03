@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "Notepad";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<html>
+
+
+<head>
+    <title>Notepads</title>
+    <meta charset="utf-8">
+    <link href="~/Content/Style.css" rel="stylesheet">
+    <script src="http://knockoutjs.com/downloads/knockout-3.4.0.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/JS.js"></script>
+    
+</head>
+
+<body>
+    <h2>Notepad</h2>
+    <div class="jumbotron">
+        <div>
+            <h3>Создать блокнот</h3>
+            <input data-bind="value: name" />
+            <button data-bind="click: createNotepad">Создать</button>
+        </div>
+        <div id="edit">
+            <br />
+            <h3>Блокноты</h3>
+            @*<input type="text" id="namelist" />*@
+            <div class="divList"><ul id="list"></ul></div>
+            <img src="" />
+            <textarea id="text"></textarea>
+            <button id="save">Сохранить</button>
+        </div>
+    </div>
+
+    <script>
+        var name = '@ViewBag.Name';
+        loadNotepad1(name);
+    </script>
+
+</body>
+</html>
+

@@ -1,0 +1,148 @@
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\WebApplication2.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\EntityFramework.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Owin.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Owin.Security.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Owin.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\WebGrease.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\EntityFramework.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Owin.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Owin.Security.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\EntityFramework.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Web-master\¦ЯTА¦-¦¦TВ¦¬¦¦¦- 5\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\WebApplication2.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\EntityFramework.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Owin.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Owin.Security.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Owin.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\WebGrease.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\EntityFramework.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Owin.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Owin.Security.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\EntityFramework.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Пушистый дирижабаль\Desktop\Web-master\Lab5-8\WebApplication2\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll

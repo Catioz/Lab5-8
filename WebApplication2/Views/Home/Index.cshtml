@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Текст";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<form method="post" action="/Home">
+    <div class="jumbotron">
+   
+        <p>Введите текст</p>
+        <input type="text" name="text"/>
+        <button type="submit">Записать</button>
+    </div>
+    <div>
+        <p><a class="btn btn-default" href="/Home/About">Просмотреть текст &raquo;</a></p>
+    </div>
+</form>
+
